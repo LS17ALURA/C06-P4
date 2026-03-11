@@ -1,0 +1,21 @@
+1-a: "Maior que 5"
+
+1-b: a estrutura condicional (if-else) funciona como uma ferramenta de tomada de decisão. Seu papel fundamental é permitir que o programa execute diferentes blocos de código (caminhos) dependendo de uma condição lógica ser verdadeira ou falsa. Sem ela, o código seria estritamente linear; com ela, o software ganha inteligência para reagir a dados variáveis e situações distintas durante a execução.
+
+2: b) Apenas II, III e IV estão corretas
+
+3: c) A JRE é suficiente para executar aplicações Java, mas não para desenvolvê-las.
+
+4: b) -128
+
+5: b) Todos armazenam números inteiros, mas possuem diferentes intervalos de valores.
+
+6: c) Executa diretamente arquivos .java.
+
+7: c) Jogos de alto desempenho
+
+8: O Java é uma linguagem híbrida porque o código fonte não é transformado diretamente em linguagem de máquina, mas sim compilado para um formato intermediário chamado Bytecode. Esse arquivo gerado é então interpretado e executado pela JVM (Máquina Virtual Java), o que garante que o programa possa rodar em diferentes sistemas operacionais sem precisar ser reescrito.
+
+9: O JDK (Java Development Kit) é o kit completo para quem vai criar programas, pois contém o compilador e ferramentas de desenvolvimento. O JRE (Java Runtime Environment) é apenas o ambiente para rodar o que já está pronto, contendo a JVM e bibliotecas básicas.
+- JDK: use quando precisar programar e compilar código Java;
+- JRE: use no computador de um usuário que só precisa executar o aplicativo final.
